@@ -1,0 +1,7 @@
+# Virtual environment
+/fin-sen-env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
